@@ -11,7 +11,7 @@ Selama proses pengiriman, fungsi beforeSend akan menampilkan pesan `Mengirim dat
 
 Tampilan:
 
-<img width="651" height="647" alt="image" src="https://github.com/user-attachments/assets/c21d301c-67ee-450b-894e-55a64a9f2d5d" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c21d301c-67ee-450b-894e-55a64a9f2d5d" />
 
-<img width="648" height="675" alt="image" src="https://github.com/user-attachments/assets/b5d41964-6083-4f8e-816b-b6353f9ed7ba" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b5d41964-6083-4f8e-816b-b6353f9ed7ba" />
 
